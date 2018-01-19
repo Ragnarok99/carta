@@ -254,3 +254,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Felipe Duque García - [@jfduque](https://github.com/jfduque)
 - Manuel Fernando Sabogal Ocampo - [@ItsEdoren](https://twitter.com/ItsEdoren)
 - Juan David Nicholls Cardona - [@jdnichollsc](https://github.com/jdnichollsc)
+- Carlos Andrés Pérez - [@capa52](https://twitter.com/capa52)
